@@ -1,1 +1,2 @@
-# loan-deposit-system-frontend
+# Frontend - Loan Deposit System
+This folder contains the React frontend.
